@@ -15,14 +15,14 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'VVIPINDO BOT'; 
-const instagram = 'agus_alnsyh71- kaelMk_'; 
-const aktif = 'Kapan bot aktif';
+const BotName = 'DONI BOT'; 
+const instagram = 'doniofficiall'; 
+const aktif = 'Kapan bot aktif';6.00
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
+            + 'FN:Doni\n' // Nama kamu
+            + 'ORG: LEXXCY;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6285709484993:+62 85709484993n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
